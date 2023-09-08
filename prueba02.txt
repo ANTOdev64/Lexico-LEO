@@ -1,0 +1,13 @@
+-- Programa que muestra el uso de estructuras de control
+
+entero numero = 10
+
+si (numero > 5) 
+{
+  imprimir("El número es mayor que 5.")
+}
+contrario 
+{
+  imprimir("El número no es mayor que 5.")
+}
+
